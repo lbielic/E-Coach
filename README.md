@@ -4,5 +4,7 @@ Jeste li ikad gledali turnire u e-sportu te željeli biti na toj razini ili samo
 
 
 
-#UseCase dijagram
-![e-coach](https://github.com/lbielic/E-Coach/assets/173070455/9268e3dd-de76-4c1b-a9d6-bbdf0cc5e6f0)
+# UseCase dijagram
+
+![e-coach](https://github.com/lbielic/E-Coach/assets/173070455/f7b4b6ff-2712-442c-91a7-198d5ef25a4b)
+
