@@ -1,6 +1,5 @@
 # E-Coach
-Jeste li ikad gledali turnire u e-sportu te željeli biti na toj razini ili samo rekreativno igrali video igre, ali željeli poboljšati svoje performanse? Uz E-coach to je napokon moguće na iznimno jednostavan način. E-coach je aplikacija dizajnirana da omogući poboljšanje vještina u odabranoj video igri. Aplikacija funkcionira na način da se izabere odgovarajući trener koji je zadužen za određenu video igru te ga se pomoću kontakt podataka koje je ostavio na aplikaciji kontaktira te se započne trening željene igre.
-
+Jeste li ikad gledali turnire u e-sportu te željeli biti na toj razini ili samo rekreativno igrali video igre, ali željeli poboljšati svoje performanse? Uz E-coach to je napokon moguće na iznimno jednostavan način. E-coach je aplikacija dizajnirana da omogući poboljšanje vještina u odabranoj video igri. Aplikacija funkcionira na način da kada kliknete gumb za prijavu otvori se izbor različitih igara te nakon što se odlučite za jednu morate samo unijeti svoje podatke i odabrati trenera te započeti svoj trening.
 
 
 
